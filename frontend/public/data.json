@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "RZP Olomouc",
+      "type": "RZP",
+      "status": "active",
+      "lat": 49.593778,
+      "lng": 17.250878,
+      "note": "Základní výjezdová skupina"
+    },
+    {
+      "id": 2,
+      "name": "LZS Brno",
+      "type": "HEMS",
+      "status": "inactive",
+      "lat": 49.195061,
+      "lng": 16.606836,
+      "note": "Letecká záchranná služba"
+    }
+  ]
